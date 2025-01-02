@@ -1,5 +1,4 @@
 # Sales-Dashboard
-
 📊 Excel Sales Dashboard: An Interactive Sales Analysis Tool
 Welcome to the Excel Sales Dashboard repository! This project is an advanced, interactive sales analysis dashboard built in Microsoft Excel, designed to provide dynamic insights into business performance.
 
